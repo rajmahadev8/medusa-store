@@ -4,7 +4,7 @@
 
 ### Participants
 
-harrykanani - [@harrykanani](https://github.com/harrykanani) | [@Harikrushn9](https://twitter.com/Harikrushn9) | ! Hari#5967<br>
+harrykanani - [@harikanani](https://github.com/harikanani) | [@Harikrushn9](https://twitter.com/Harikrushn9) | ! Hari#5967<br>
 
 rajmahadev8 - [@rajmahadev8](https://github.com/rajmahadev8) | [@MahadevwalaRaj](https://twitter.com/MahadevwalaRaj) | rajmahadev8#6141
 <br>
